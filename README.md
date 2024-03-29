@@ -2,4 +2,5 @@
 Requires neovim 0.10+ \
 Prerequisite: install ripgrep
 
-
+Install Packer (& look into migrating from packer)
+https://github.com/wbthomason/packer.nvim
